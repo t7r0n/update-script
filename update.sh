@@ -1,12 +1,12 @@
 #!/bin/bash
 
+
 # Greet
 
-echo " Greetings MASTER TARUN "
+echo " Greetings MASTER "
 
 espeak Greetings 
 espeak MASTER
-espeak TARUN
 
 apt update && sudo apt upgrade -y
 apt autoremove -y
