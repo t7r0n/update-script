@@ -38,7 +38,7 @@ sudo ./update.sh
 The machine will greet you by saying 'Greetings Master'.
 There will also be a text printed on the terminal saying the same.
 
-After installing and cleaning the update the machine will say 'Done lala'. 
+After installing and cleaning the update the machine will say 'Done lalala'. 
 
 
 
