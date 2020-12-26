@@ -1,5 +1,5 @@
 # update-script
-This is a script which updates linux packages and cleans them after update-installation. It also uses espeak (voice synthesizer) which tells you
+This is a script which updates linux packages and cleans them after update-installation. It also uses espeak (speech synthesizer) which tells you
 the beginning and end of the script when ran.
 
 # Prerequisites
@@ -28,5 +28,17 @@ The script should run without any issues.
 ```
 sudo ./update.sh
 ```
+
+# Working
+
+When executed 
+```
+sudo ./update.sh
+```
+The machine will greet you by saying 'Greetings Master'.
+There will also be a text printed on the terminal saying the same.
+
+After installing and cleaning the update the machine will say 'Done lala'. 
+
 
 
