@@ -5,8 +5,7 @@
 
 echo " Greetings MASTER "
 
-espeak Greetings 
-espeak MASTER
+espeak Greetings_Master
 
 apt update && sudo apt upgrade -y
 apt autoremove -y
@@ -19,4 +18,3 @@ echo "*                     *"
 echo "***********************"
 
 espeak done 
-espeak lalala
